@@ -1,7 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-<!--Chaves para trad -->
     <string name="app_name">My Application 2.0</string>
     <string name="Login">Usuário</string>
-    <string name="Login">Login</string>
-    <string name="Pass">Password</string>
+    <string name="Pass">Senha</string>
 </resources>

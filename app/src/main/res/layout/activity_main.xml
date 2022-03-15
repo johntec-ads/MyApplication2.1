@@ -1,13 +1,13 @@
-//Atualizando MainActivity
 <?xml version="1.0" encoding="utf-8"?>
 <FrameLayout
-    android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    android:layout_gravity="center"
 
- xmlns:android="http://schemas.android.com/apk/res/android">
+   android:layout_width="match_parent"
+   android:layout_height="match_parent"
+   android:layout_gravity="center"
 
-    <!--Layout com imagem de fundo-->
+xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--Atualizando MainActivity-->
+   <!--Layout com imagem de fundo-->
     <ImageView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
@@ -25,7 +25,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Login"
+        android:text="@string/Login"
         android:textColor="#0000ff"/>
 
     <EditText
@@ -35,7 +35,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Senha"
+        android:text="@string/Pass"
         android:textColor="#0000ff"/>
 
     <EditText
