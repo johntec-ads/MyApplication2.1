@@ -1,5 +1,5 @@
 package com.example.myapplication20
-//Teste de unpoush.
+//Teste de unpush.
 //responde a erro de unpush
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
